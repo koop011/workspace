@@ -1,0 +1,2 @@
+https://www.wundertech.net/how-to-install-pi-hole-on-ubuntu/
+curl -sSL https://install.pi-hole.net | bash
