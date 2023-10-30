@@ -27,6 +27,10 @@ def main():
     print(welcome_message)
 
     game_type = game_mode()
+    
+    match (int(game_type)):
+        case 1:
+            print("testing")
 
 if __name__ == "__main__":
     main()
